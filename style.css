@@ -1,0 +1,22 @@
+body {
+	margin:0;
+	font-family:Helvetica
+}
+
+#logo {
+	height:200px;
+	width:200px;	
+}
+h1{
+	color:#000000;
+	font-size:15px;
+}
+
+#container {
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	height:100vh;
+	background-color:#b7b7b7;
+	flex-direction:column;
+}
